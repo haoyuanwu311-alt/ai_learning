@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.vscode/
+# Python 虚拟环境 (最重要！)
+venv/
+.venv/
+env/
+ENV/
+
+# Python 缓存
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE 配置文件
+.vscode/
+.idea/
+
+# 数据和日志
+*.log
+data/
